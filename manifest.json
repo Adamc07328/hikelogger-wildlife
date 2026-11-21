@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T21:29:42Z",
+  "generatedAt": "2026-11-21T12:09:14Z",
   "baseUrl": "https://raw.githubusercontent.com/Adamc07328/hikelogger-wildlife/main/",
   "images": [
     {
@@ -47,6 +47,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delichon_urbica.jpg",
       "commonsTitle": "File:Delichon urbica.jpg",
       "updatedAt": "2026-11-17T21:29:42Z"
+    },
+    {
+      "taxonId": "col:37VCZ",
+      "scientificName": "Dryocopus martius",
+      "file": "images/col_37VCZ.webp",
+      "sha256": "7e3c297ba5a21b9dae9b15f26d877357ed8b14fd8a58af845f7ea0d7559bae5a",
+      "bytes": 95940,
+      "width": 800,
+      "height": 534,
+      "author": "Leonhard Lenz",
+      "licence": "CC0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dryocopus_martius_in_Spandauer_Forst_2020-04-11_05.jpg",
+      "commonsTitle": "File:Dryocopus martius in Spandauer Forst 2020-04-11 05.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
     },
     {
       "taxonId": "col:39FSZ",
@@ -154,6 +169,21 @@
       "updatedAt": "2026-11-17T21:29:42Z"
     },
     {
+      "taxonId": "col:3DXW2",
+      "scientificName": "Felis silvestris",
+      "file": "images/col_3DXW2.webp",
+      "sha256": "9c1fd4a04c130702948789cd03181a03a42e1bd06a669f49fce00c94cecc5d05",
+      "bytes": 227508,
+      "width": 800,
+      "height": 1200,
+      "author": "Lviatour",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Felis_silvestris_silvestris_Luc_Viatour.jpg",
+      "commonsTitle": "File:Felis silvestris silvestris Luc Viatour.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
       "taxonId": "col:3F6V9",
       "scientificName": "Gallinago gallinago",
       "file": "images/col_3F6V9.webp",
@@ -167,6 +197,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bekassine_(Blick_nach_oben).jpg",
       "commonsTitle": "File:Bekassine (Blick nach oben).jpg",
       "updatedAt": "2026-11-17T21:29:42Z"
+    },
+    {
+      "taxonId": "col:3G9QL",
+      "scientificName": "Glis glis",
+      "file": "images/col_3G9QL.webp",
+      "sha256": "c7f6fcac957154967c2a38bbcae5dcb72448f0604317392d21eca604c2eac283",
+      "bytes": 87288,
+      "width": 800,
+      "height": 600,
+      "author": "Youbadou",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glis_glis_.jpg",
+      "commonsTitle": "File:Glis glis .jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
     },
     {
       "taxonId": "col:3JBJV",
@@ -274,6 +319,21 @@
       "updatedAt": "2026-11-17T21:29:42Z"
     },
     {
+      "taxonId": "col:3VGH6",
+      "scientificName": "Lissotriton montandoni",
+      "file": "images/col_3VGH6.webp",
+      "sha256": "002e9cbeb79061a09f5f71da53bfdd7a1905577009fbc8f4e3af2ef2727d1bdc",
+      "bytes": 35012,
+      "width": 800,
+      "height": 533,
+      "author": "Ігор Гвоздецький",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A2%D1%80%D0%B8%D1%82%D0%BE%D0%BD_%D0%BA%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_(Lissotriton_montandoni)_-_%D0%B5%D0%BD%D0%B4%D0%B5%D0%BC%D1%96%D0%BA_%D0%9A%D0%B0%D1%80%D0%BF%D0%B0%D1%82.jpg",
+      "commonsTitle": "File:Тритон карпатський (Lissotriton montandoni) - ендемік Карпат.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
       "taxonId": "col:3W8WP",
       "scientificName": "Loxia curvirostra",
       "file": "images/col_3W8WP.webp",
@@ -302,6 +362,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kleine_Feuerfalter_(Lycaena_phlaeas)_im_FFH-Gebiet_%22Viernheimer_Waldheide_und_angrenzende_Fl%C3%A4chen%22.jpg",
       "commonsTitle": "File:Kleine Feuerfalter (Lycaena phlaeas) im FFH-Gebiet \"Viernheimer Waldheide und angrenzende Flächen\".jpg",
       "updatedAt": "2026-11-17T21:29:42Z"
+    },
+    {
+      "taxonId": "col:3WTTR",
+      "scientificName": "Lyrurus tetrix",
+      "file": "images/col_3WTTR.webp",
+      "sha256": "1e30eca11b038a770066f11f4f16070e1b2a4d79901184eaf42a25793b174c01",
+      "bytes": 120710,
+      "width": 800,
+      "height": 600,
+      "author": "Mike Prince from Bangalore, India",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Grouse_(48203375711).jpg",
+      "commonsTitle": "File:Black Grouse (48203375711).jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
     },
     {
       "taxonId": "col:3XVHR",
@@ -424,6 +499,21 @@
       "updatedAt": "2026-11-17T21:29:42Z"
     },
     {
+      "taxonId": "col:4DQ9X",
+      "scientificName": "Parnassius apollo",
+      "file": "images/col_4DQ9X.webp",
+      "sha256": "d7905c066b4e6977065ceeec9cbbd4aea1b2bf11abbdcf429eb4b3110bd10cb4",
+      "bytes": 64476,
+      "width": 800,
+      "height": 527,
+      "author": "Fentriss und die Natur.",
+      "licence": "CC0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aurotapolloy082021c99.jpg",
+      "commonsTitle": "File:Aurotapolloy082021c99.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
       "taxonId": "col:4FWMN",
       "scientificName": "Phasianus colchicus",
       "file": "images/col_4FWMN.webp",
@@ -454,6 +544,21 @@
       "updatedAt": "2026-11-17T21:29:42Z"
     },
     {
+      "taxonId": "col:4HQFM",
+      "scientificName": "Picoides tridactylus",
+      "file": "images/col_4HQFM.webp",
+      "sha256": "7bfbfc4198c6fe2a80640eaae1786f78d64bbb04bca41397b121dedd97ccde6b",
+      "bytes": 89456,
+      "width": 800,
+      "height": 600,
+      "author": "Frank Vassen from Brussels, Belgium",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Three-toed_Woodpecker,_Bia%C5%82owie%C5%BCa_Forest,_Poland_(4664671942).jpg",
+      "commonsTitle": "File:Three-toed Woodpecker, Białowieża Forest, Poland (4664671942).jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
       "taxonId": "col:4HRQQ",
       "scientificName": "Pieris napi",
       "file": "images/col_4HRQQ.webp",
@@ -482,6 +587,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goldregenpfeifer_(Pluvialis_apricaria).jpg",
       "commonsTitle": "File:Goldregenpfeifer (Pluvialis apricaria).jpg",
       "updatedAt": "2026-11-17T21:29:42Z"
+    },
+    {
+      "taxonId": "col:4KPJ3",
+      "scientificName": "Podarcis muralis",
+      "file": "images/col_4KPJ3.webp",
+      "sha256": "9a2017e3a7ea19efe68e007cbec8a0eea350a881b38e5c65bbd4c2192ca298bd",
+      "bytes": 53508,
+      "width": 800,
+      "height": 534,
+      "author": "Marie-Lan Nguyen",
+      "licence": "CC BY 2.5",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Podarcis_muralis_Auvergne_2013-04-02_n01.jpg",
+      "commonsTitle": "File:Podarcis muralis Auvergne 2013-04-02 n01.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
     },
     {
       "taxonId": "col:4LCR7",
@@ -559,6 +679,21 @@
       "updatedAt": "2026-11-17T21:29:42Z"
     },
     {
+      "taxonId": "col:4TQLC",
+      "scientificName": "Rupicapra rupicapra",
+      "file": "images/col_4TQLC.webp",
+      "sha256": "bab8eb90b8324b4e9ea7922ff9783475aca9c770e625e1fbd63c911b45c33c31",
+      "bytes": 127996,
+      "width": 800,
+      "height": 800,
+      "author": "Stephan Sprinz",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:G%C3%A4mse_(Rupicapra_rupicapra)_auf_dem_Ornach_07.jpg",
+      "commonsTitle": "File:Gämse (Rupicapra rupicapra) auf dem Ornach 07.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
       "taxonId": "col:4VNCY",
       "scientificName": "Sciurus carolinensis",
       "file": "images/col_4VNCY.webp",
@@ -617,6 +752,66 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lugre,_(Pintassilgo-verde),_macho,_Eurasian_Siskin,_male_(52655854501).jpg",
       "commonsTitle": "File:Lugre, (Pintassilgo-verde), macho, Eurasian Siskin, male (52655854501).jpg",
       "updatedAt": "2026-11-17T21:29:42Z"
+    },
+    {
+      "taxonId": "col:53HGR",
+      "scientificName": "Sus scrofa",
+      "file": "images/col_53HGR.webp",
+      "sha256": "c91b19e4b9028c7186310474702dba5ff65bde53261bb10d874c39653a352d29",
+      "bytes": 119688,
+      "width": 800,
+      "height": 532,
+      "author": "Jakub Hałun",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dzik_na_Czerwonych_Makach_w_Krakowie,_20241127_1100_2816.jpg",
+      "commonsTitle": "File:Dzik na Czerwonych Makach w Krakowie, 20241127 1100 2816.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
+      "taxonId": "col:55QS7",
+      "scientificName": "Tetrao urogallus",
+      "file": "images/col_55QS7.webp",
+      "sha256": "367a06100a34a6c2b23b6a09ef0a07942c7a72cc33793fbcb7d7d9607b10d564",
+      "bytes": 124110,
+      "width": 800,
+      "height": 534,
+      "author": "Tero Laakso from Hyvinkää, Finland",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tetrao_urogallus_(mating_display)_(26738644457).jpg",
+      "commonsTitle": "File:Tetrao urogallus (mating display) (26738644457).jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
+      "taxonId": "col:55SK5",
+      "scientificName": "Tetrastes bonasia",
+      "file": "images/col_55SK5.webp",
+      "sha256": "b2fccb305dff7b6053e44ab467882d5d54a569c35d70261290e912bdad289c1b",
+      "bytes": 50030,
+      "width": 800,
+      "height": 620,
+      "author": "Tokumi",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wiki-ezoraicho_(cropped).jpg",
+      "commonsTitle": "File:Wiki-ezoraicho (cropped).jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
+      "taxonId": "col:56VKH",
+      "scientificName": "Tichodroma muraria",
+      "file": "images/col_56VKH.webp",
+      "sha256": "c4f9893f017c19fb6ca2f4c811bd7b68c00d97f6650e8109248b7cd2bde8f188",
+      "bytes": 138426,
+      "width": 800,
+      "height": 600,
+      "author": "Ian Dugdale",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tichodroma_muraria_-_Ian_Dugdale_-_547329349.jpeg",
+      "commonsTitle": "File:Tichodroma muraria - Ian Dugdale - 547329349.jpeg",
+      "updatedAt": "2026-11-21T12:09:14Z"
     },
     {
       "taxonId": "col:598TT",
@@ -724,6 +919,21 @@
       "updatedAt": "2026-11-17T21:29:42Z"
     },
     {
+      "taxonId": "col:5BJ7Y",
+      "scientificName": "Vipera berus",
+      "file": "images/col_5BJ7Y.webp",
+      "sha256": "bd5782e528b7d282e73969ae7b90c99a57d93b03b221368b1023703f6efde801",
+      "bytes": 183856,
+      "width": 800,
+      "height": 532,
+      "author": "Benny Trapp",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benny_Trapp_Vipera_berus.jpg",
+      "commonsTitle": "File:Benny Trapp Vipera berus.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
       "taxonId": "col:5BSG3",
       "scientificName": "Vulpes vulpes",
       "file": "images/col_5BSG3.webp",
@@ -797,6 +1007,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sumpfohreule_(Asio_flammeus)_auf_Spiekeroog_-_Nationalpark_nieders%C3%A4chsisches_Wattenmeer_(1).jpg",
       "commonsTitle": "File:Sumpfohreule (Asio flammeus) auf Spiekeroog - Nationalpark niedersächsisches Wattenmeer (1).jpg",
       "updatedAt": "2026-11-17T21:29:42Z"
+    },
+    {
+      "taxonId": "col:5WNNK",
+      "scientificName": "Bombina variegata",
+      "file": "images/col_5WNNK.webp",
+      "sha256": "18626a4f7a8adc40f9debf81072b863bbb2d8d960db49a36e6b9c2be42d154a6",
+      "bytes": 90864,
+      "width": 800,
+      "height": 575,
+      "author": "Frank Vassen from Brussels, Belgium",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yellow-bellied_toad_(Bombina_variegata),_SW_Romania_(31228771818).jpg",
+      "commonsTitle": "File:Yellow-bellied toad (Bombina variegata), SW Romania (31228771818).jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
     },
     {
       "taxonId": "col:5YGFK",
@@ -902,6 +1127,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cuco-canoro,_macho,_Common_Cuckoo,_male_(52779419240).jpg",
       "commonsTitle": "File:Cuco-canoro, macho, Common Cuckoo, male (52779419240).jpg",
       "updatedAt": "2026-11-17T21:29:42Z"
+    },
+    {
+      "taxonId": "col:6CJBL",
+      "scientificName": "Dendrocopos leucotos",
+      "file": "images/col_6CJBL.webp",
+      "sha256": "102282a486a373809679c2013f8babffe9f55374c46ca36feac331d44d8c0afd",
+      "bytes": 50340,
+      "width": 800,
+      "height": 530,
+      "author": "Олег Марцун",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FOT_4548_%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg",
+      "commonsTitle": "File:FOT 4548 копія.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
     },
     {
       "taxonId": "col:6DYRB",
@@ -1024,6 +1264,21 @@
       "updatedAt": "2026-11-17T21:29:42Z"
     },
     {
+      "taxonId": "col:6QR9T",
+      "scientificName": "Lynx lynx",
+      "file": "images/col_6QR9T.webp",
+      "sha256": "fc11bdd72d216d5c9a52088998e5cd1638a2d987e5d388da33c6996469565385",
+      "bytes": 90632,
+      "width": 800,
+      "height": 800,
+      "author": "Dawidovsky",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lynx_lurking_in_grass.jpg",
+      "commonsTitle": "File:Lynx lurking in grass.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
       "taxonId": "col:6WR99",
       "scientificName": "Rana temporaria",
       "file": "images/col_6WR99.webp",
@@ -1037,6 +1292,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Junger_Grasfrosch_(Rana_temporaria)_in_Buchenlaub_im_Naturpark_Pf%C3%A4lzerwald.jpg",
       "commonsTitle": "File:Junger Grasfrosch (Rana temporaria) in Buchenlaub im Naturpark Pfälzerwald.jpg",
       "updatedAt": "2026-11-17T21:29:42Z"
+    },
+    {
+      "taxonId": "col:6XB2G",
+      "scientificName": "Salamandra salamandra",
+      "file": "images/col_6XB2G.webp",
+      "sha256": "bf341952d514f8782b4b66f5ade0b298c52db8a703f258b0400744e94ea93323",
+      "bytes": 102292,
+      "width": 800,
+      "height": 525,
+      "author": "Benny Trapp",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benny_Trapp_S%C3%BCdspanischer_Feuersalamander_Salamandra_longirostris.jpg",
+      "commonsTitle": "File:Benny Trapp Südspanischer Feuersalamander Salamandra longirostris.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
     },
     {
       "taxonId": "col:6XR3F",
@@ -1262,6 +1532,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Murre_-_Flickr_-_GregTheBusker_(1).jpg",
       "commonsTitle": "File:Common Murre - Flickr - GregTheBusker (1).jpg",
       "updatedAt": "2026-11-17T21:29:42Z"
+    },
+    {
+      "taxonId": "col:7F2KB",
+      "scientificName": "Ursus arctos",
+      "file": "images/col_7F2KB.webp",
+      "sha256": "fa2b92f221ae534dbb3a5bea53430bebdf36ff4875f1dbe93ee4ee49f0afd087",
+      "bytes": 102016,
+      "width": 800,
+      "height": 533,
+      "author": "Byrdyak",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D0%B4%D0%BC%D1%96%D0%B4%D1%8C_%D1%83_%D0%BB%D1%96%D1%81%D1%96.jpg",
+      "commonsTitle": "File:Ведмідь у лісі.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
     },
     {
       "taxonId": "col:7FFJL",
@@ -1534,6 +1819,21 @@
       "updatedAt": "2026-11-17T21:29:42Z"
     },
     {
+      "taxonId": "col:NKSD",
+      "scientificName": "Bubo bubo",
+      "file": "images/col_NKSD.webp",
+      "sha256": "a214deb3ed7a678c3a57788039a201b083cc6d23399d0a8402971edb4fbb4b52",
+      "bytes": 169866,
+      "width": 800,
+      "height": 533,
+      "author": "JarroNevsbaru",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eurasian_eagle_owl_(Bubo_bubo)_2024.jpg",
+      "commonsTitle": "File:Eurasian eagle owl (Bubo bubo) 2024.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
       "taxonId": "col:NYV7",
       "scientificName": "Buteo buteo",
       "file": "images/col_NYV7.webp",
@@ -1564,6 +1864,36 @@
       "updatedAt": "2026-11-17T21:29:42Z"
     },
     {
+      "taxonId": "col:QLX7",
+      "scientificName": "Canis aureus",
+      "file": "images/col_QLX7.webp",
+      "sha256": "10376f9c933913fb39adfdf3bbce7bdd096b35d43996d48e1e94c078abfb7b2b",
+      "bytes": 173610,
+      "width": 800,
+      "height": 551,
+      "author": "Dûrzan",
+      "licence": "CC0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waw%C3%AEk-Canis_aureus.jpg",
+      "commonsTitle": "File:Wawîk-Canis aureus.jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
+      "taxonId": "col:QLXL",
+      "scientificName": "Canis lupus",
+      "file": "images/col_QLXL.webp",
+      "sha256": "bb8296d1aa4c91b25157d41065c691ad26518a8581da46596f6ae0d59c16a8d5",
+      "bytes": 54152,
+      "width": 800,
+      "height": 533,
+      "author": "Animal Record ® from Madrid, España",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lobo_americano_(Canis_lupus)_(52527881648).jpg",
+      "commonsTitle": "File:Lobo americano (Canis lupus) (52527881648).jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
+    },
+    {
       "taxonId": "col:QS68",
       "scientificName": "Capra hircus",
       "file": "images/col_QS68.webp",
@@ -1577,6 +1907,21 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Goat_by_a_Stream_(8708955674).jpg",
       "commonsTitle": "File:A Goat by a Stream (8708955674).jpg",
       "updatedAt": "2026-11-17T21:29:42Z"
+    },
+    {
+      "taxonId": "col:QSF3",
+      "scientificName": "Capreolus capreolus",
+      "file": "images/col_QSF3.webp",
+      "sha256": "97961d95b52eaec362b0a48581be263dc307fab86abfcc681517a1f5c85f9dcf",
+      "bytes": 28544,
+      "width": 800,
+      "height": 533,
+      "author": "Romzig",
+      "licence": "CC0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rehbock_(April_2025).jpg",
+      "commonsTitle": "File:Rehbock (April 2025).jpg",
+      "updatedAt": "2026-11-21T12:09:14Z"
     },
     {
       "taxonId": "col:T56G",
